@@ -22,5 +22,5 @@
 </ul>
 <hr>
 <p>
-  Projeto contruido com bases do curso Java Completo do Professor Nelio Alves.
+  Projeto construido com bases do curso Java Completo do Professor Nelio Alves.
 </p>
