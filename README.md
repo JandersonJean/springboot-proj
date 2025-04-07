@@ -7,7 +7,7 @@
   <li>Implementar modelo de domínio.</li>
   <li>Estruturar camadas lógicas: resource, service, repository.</li>
   <li>Configurar banco de dados de teste (H2).</li>
-  <li>Povoar o banco de dados.</li>
+  <li>Abastecer o banco de dados.</li>
   <li>CRUD - Create, Retrieve, Update, Delete.</li>
   <li>Tratamento de exceções.</li>
 </ul>
