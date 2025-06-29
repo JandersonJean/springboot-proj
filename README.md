@@ -8,7 +8,7 @@
   <li>Estruturar camadas lógicas: resource, service, repository.</li>
   <li>Configurar banco de dados de teste (H2).</li>
   <li>Abastecer o banco de dados.</li>
-  <li>CRUD - Create, Retrieve, Update, Delete.</li>
+  <li>CRUD - Create, Read, Update, Delete.</li>
   <li>Tratamento de exceções.</li>
 </ul>
 
